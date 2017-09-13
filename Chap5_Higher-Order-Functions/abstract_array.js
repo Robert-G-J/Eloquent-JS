@@ -3,3 +3,5 @@ function showEach(array) {
     console.log(array[i]); 
   }
 }
+
+
